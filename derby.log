@@ -1,0 +1,39 @@
+----------------------------------------------------------------
+Sun Nov 14 10:29:07 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017d-1dc7-66f5-00000a6c9e20 
+on database directory memory:/home/matthias/Desktop/FH/Semester 4/CIN/TaskWebApp/1b650362-7216-4d92-8823-cafb6fddc66e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/home/matthias/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.11+9-Ubuntu-0ubuntu2.20.04
+user.dir=/home/matthias/Desktop/FH/Semester 4/CIN/TaskWebApp
+os.name=Linux
+os.arch=amd64
+os.version=5.11.0-40-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Nov 14 10:29:11 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 13a100c9-017d-1dc7-66f5-00000a6c9e20 
+on database directory memory:/home/matthias/Desktop/FH/Semester 4/CIN/TaskWebApp/2ee0138d-6ffa-426d-aed7-92b272c21341 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/home/matthias/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.11+9-Ubuntu-0ubuntu2.20.04
+user.dir=/home/matthias/Desktop/FH/Semester 4/CIN/TaskWebApp
+os.name=Linux
+os.arch=amd64
+os.version=5.11.0-40-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Nov 14 10:29:14 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2a754187-017d-1dc7-66f5-00000a6c9e20 
+on database directory memory:/home/matthias/Desktop/FH/Semester 4/CIN/TaskWebApp/a4a688ce-7fdd-4308-8386-db0a5692dc5f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/home/matthias/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.11+9-Ubuntu-0ubuntu2.20.04
+user.dir=/home/matthias/Desktop/FH/Semester 4/CIN/TaskWebApp
+os.name=Linux
+os.arch=amd64
+os.version=5.11.0-40-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

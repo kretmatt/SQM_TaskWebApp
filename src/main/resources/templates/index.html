@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="utf-8">
+<title>ToDos</title>
+</head>
+
+<body>
+<form th:action="@{/}">
+<select name="state">
+	<option th:each="stateOpt:${T(at.technikumwien.taskwebapp.entities.ToDoState).values()}" th:value="${stateOpt}" th:text="${stateOpt}"></option>
+</select>
+<button>Switch state</button>
+</form>
+
+<h1>[[${state}]] ToDos</h1>
+
+<ul>
+<li th:each="todo: ${todos}">
+[[ ${todo} ]]
+</li>
+</ul>
+
+</body>
+</html>
