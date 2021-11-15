@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    name: db_person
+    name: db_task
   jpa:
     generate-ddl: true
     hibernate:
